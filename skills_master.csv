@@ -1,0 +1,153 @@
+apparatus,group_code,skill_id,skill_name,symbol_path,value_letter,value_numeric
+BB,BB_2.101,BB_2.101_01,Split leap,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.101_01.png,A,0.1
+BB,BB_2.107,BB_2.107_01,Pike jump from cross,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.107_01.png,A,0.1
+BB,BB_2.112,BB_2.112_01,Wolf jump,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.112_01.png,A,0.1
+BB,BB_2.202,BB_2.202_01,Split jump from cross,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.202_01.png,B,0.2
+BB,BB_2.207,BB_2.207_01,Pike jump from cross ½ turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.207_01.png,B,0.2
+BB,BB_2.212,BB_2.212_01,Wolf jump ½ turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.212_01.png,B,0.2
+BB,BB_2.301,BB_2.301_01,Split leap ½ turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.301_01.png,C,0.3
+BB,BB_2.302,BB_2.302_01,Split jump with ½ turn from cross,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.302_01.png,C,0.3
+BB,BB_2.305,BB_2.305_01,Switch leap,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.305_01.png,C,0.3
+BB,BB_2.306,BB_2.306_01,Johnson,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.306_01.png,C,0.3
+BB,BB_2.311,BB_2.311_01,Tuck jump 1/1 from cross,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.311_01.png,C,0.3
+BB,BB_2.402,BB_2.402_01,Split jump with 1/1 turn from cross,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.402_01.png,D,0.4
+BB,BB_2.405,BB_2.405_01,Switch leap ½ turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.405_01.png,D,0.4
+BB,BB_2.407,BB_2.407_01,Pike jump from cross 1/1 turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.407_01.png,D,0.4
+BB,BB_2.409,BB_2.409_01,Straight jump 1½ turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.409_01.png,C,0.3
+BB,BB_2.411,BB_2.411_01,Tuck jump 1½ turn from cross,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.411_01.png,D,0.4
+BB,BB_2.412,BB_2.412_01,Wolf jump 1/1 turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.412_01.png,D,0.4
+BB,BB_2.506,BB_2.506_01,Johnson with ½ turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_2.506_01.png,E,0.5
+BB,BB_3.101,BB_3.101_01,1/1 turn on one leg,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_3.101_01.png,A,0.1
+BB,BB_3.201,BB_3.201_01,1½ turn turn on one leg,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_3.201_01.png,B,0.2
+BB,BB_3.206,BB_3.206_01,½ illusion turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_3.206_01.png,B,0.2
+BB,BB_3.207,BB_3.207_01,1/1 wolf turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_3.207_01.png,B,0.2
+BB,BB_3.304,BB_3.304_01,1/1 turn free leg horizontal,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_3.304_01.png,C,0.3
+BB,BB_3.305,BB_3.305_01,1/1 turn free leg 180° split,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_3.305_01.png,C,0.3
+BB,BB_3.307,BB_3.307_01,½ wolf turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_3.307_01.png,C,0.3
+BB,BB_3.401,BB_3.401_01,2/1 turn on one leg,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_3.401_01.png,D,0.4
+BB,BB_3.404,BB_3.404_01,1½ turn turn free leg horizontal,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_3.404_01.png,D,0.4
+BB,BB_3.405,BB_3.405_01,1 ½ turn free leg held 180° split,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_3.405_01.png,D,0.4
+BB,BB_3.406,BB_3.406_01,1/1 illusion turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_3.406_01.png,D,0.4
+BB,BB_3.501,BB_3.501_01,3/1 turn on one leg,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_3.501_01.png,E,0.5
+BB,BB_3.504,BB_3.504_01,2/1 turn free leg horizontal,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_3.504_01.png,E,0.5
+BB,BB_3.505,BB_3.505_01,2/1 turn free leg held 180° split,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_3.505_01.png,E,0.5
+BB,BB_4.105,BB_4.105_01,Bwd roll,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_4.105_01.png,A,0.1
+BB,BB_4.202,BB_4.202_01,Pike support hold,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_4.202_01.png,B,0.2
+BB,BB_4.305,BB_4.305_01,Bwd roll to hdst,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_4.305_01.png,C,0.3
+BB,BB_5.202,BB_5.202_01,Flic land 2 feet,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_5.202_01.png,B,0.2
+BB,BB_5.206,BB_5.206_01,Gainer flic,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_5.206_01.png,B,0.2
+BB,BB_5.208,BB_5.208_01,Round-off,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_5.208_01.png,B,0.2
+BB,BB_5.301,BB_5.301_01,Fwd Hanspring leg change,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_5.301_01.png,C,0.3
+BB,BB_5.304,BB_5.304_01,Flic with ½ twist after support,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_5.304_01.png,C,0.3
+BB,BB_5.310,BB_5.310_01,Liukin,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_5.310_01.png,C,0.3
+BB,BB_5.409,BB_5.409_01,Fwd aerial,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_5.409_01.png,D,0.4
+BB,BB_5.410,BB_5.410_01,Tuck fwd salto,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_5.410_01.png,D,0.4
+BB,BB_5.510,BB_5.510_01,Pike fwd salto,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_5.510_01.png,E,0.5
+BB,BB_5.512,BB_5.512_01,Streched bwd salto,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_5.512_01.png,E,0.5
+BB,BB_6.404,BB_6.404_01,Dismount: Stretch bwd salto 2½ twist,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_6.404_01.png,D,0.4
+BB,BB_6.405,BB_6.405_01,Dismount: Double bwd salto pike,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_6.405_01.png,D,0.4
+BB,BB_6.505,BB_6.505_01,Dismount: Double bwd salto tuck,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/bb/BB_6.505_01.png,E,0.5
+FX,FX_1.101,FX_1.101_01,Split leap,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.101_01.png,A,0.1
+FX,FX_1.103,FX_1.103_01,Tuck jump to cross split,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.103_01.png,A,0.1
+FX,FX_1.105,FX_1.105_01,Stride leap leg change to wolf,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.105_01.png,A,0.1
+FX,FX_1.106,FX_1.106_01,Pike jump,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.106_01.png,A,0.1
+FX,FX_1.110,FX_1.110_01,Jump 1/1 turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.110_01.png,A,0.1
+FX,FX_1.201,FX_1.201_01,Split leap ½ turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.201_01.png,B,0.2
+FX,FX_1.203,FX_1.203_01,Fwd butterfly,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.203_01.png,B,0.2
+FX,FX_1.204,FX_1.204_01,Switch leap to side split,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.204_01.png,B,0.2
+FX,FX_1.205,FX_1.205_01,Switch Leap,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.205_01.png,B,0.2
+FX,FX_1.206,FX_1.206_01,Sheep jump,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.206_01.png,B,0.2
+FX,FX_1.211,FX_1.211_01,Cat leap 1/1 turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.211_01.png,B,0.2
+FX,FX_1.213,FX_1.213_01,Tuck jump 1/1 turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.213_01.png,B,0.2
+FX,FX_1.301,FX_1.301_01,Split leap 1/1 turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.301_01.png,C,0.3
+FX,FX_1.305,FX_1.305_01,Switch leap to ring,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.305_01.png,C,0.3
+FX,FX_1.306,FX_1.306_01,Pike jump 1/1 turn to front support,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.306_01.png,C,0.3
+FX,FX_1.310,FX_1.310_01,Jump 2/1 turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.310_01.png,C,0.3
+FX,FX_1.311,FX_1.311_01,Cat leap 2/1 turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.311_01.png,C,0.3
+FX,FX_1.402,FX_1.402_01,Tour jeté 1/1,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.402_01.png,D,0.4
+FX,FX_1.405,FX_1.405_01,Switch leap ½ turn to ring,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_1.405_01.png,D,0.4
+FX,FX_2.101,FX_2.101_01,1/1 turn on 1 leg,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_2.101_01.png,A,0.1
+FX,FX_2.201,FX_2.201_01,2/1 turn on 1 leg,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_2.201_01.png,B,0.2
+FX,FX_2.202,FX_2.202_01,1/1 turn free heel at horizontal,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_2.202_01.png,B,0.2
+FX,FX_2.203,FX_2.203_01,1/1 turn free leg in split,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_2.203_01.png,B,0.2
+FX,FX_2.206,FX_2.206_01,1/1 illusion turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_2.206_01.png,B,0.2
+FX,FX_2.207,FX_2.207_01,1/1 turn wolf turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_2.207_01.png,B,0.2
+FX,FX_2.301,FX_2.301_01,3/1 turn on 1 leg,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_2.301_01.png,C,0.3
+FX,FX_2.402,FX_2.402_01,2/1 turn free heel at horizontal,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_2.402_01.png,D,0.4
+FX,FX_2.403,FX_2.403_01,2/1 turn free leg in split,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_2.403_01.png,D,0.4
+FX,FX_2.407,FX_2.407_01,2/1 wolf turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_2.407_01.png,D,0.4
+FX,FX_2.501,FX_2.501_01,4/1 turn on 1 leg,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_2.501_01.png,E,0.5
+FX,FX_2.507,FX_2.507_01,3/1 wolf turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_2.507_01.png,E,0.5
+FX,FX_3.103,FX_3.103_01,Bwd roll to hstd 1/1 turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_3.103_01.png,A,0.1
+FX,FX_3.106,FX_3.106_01,Round off,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_3.106_01.png,A,0.1
+FX,FX_3.207,FX_3.207_01,Flic 1/1 twist before support,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_3.207_01.png,B,0.2
+FX,FX_4.402,FX_4.402_01,Fwd salto stretch 2/1 twist,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_4.402_01.png,D,0.4
+FX,FX_4.501,FX_4.501_01,Double fwd salto,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_4.501_01.png,E,0.5
+FX,FX_4.502,FX_4.502_01,Fwd salto stretch 2½ twist,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_4.502_01.png,E,0.5
+FX,FX_4.601,FX_4.601_01,Double fwd salto ½ twist,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_4.601_01.png,F,0.6
+FX,FX_4.602,FX_4.602_01,Fwd salto stretch 3/1 twist,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_4.602_01.png,F,0.6
+FX,FX_5.104,FX_5.104_01,Whip salto,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_5.104_01.png,A,0.1
+FX,FX_5.204,FX_5.204_01,Whip salto ½ twist,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_5.204_01.png,B,0.2
+FX,FX_5.304,FX_5.304_01,Whip salto 1/1 twist,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_5.304_01.png,C,0.3
+FX,FX_5.401,FX_5.401_01,Bwd salto stretch 2½ twist,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_5.401_01.png,D,0.4
+FX,FX_5.501,FX_5.501_01,Bwd salto stretch 3/1 twist,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_5.501_01.png,E,0.5
+FX,FX_5.601,FX_5.601_01,Bwd salto stretch 3½ twist,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_5.601_01.png,F,0.6
+FX,FX_5.603,FX_5.603_01,Double bwd salto stretch,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_5.603_01.png,F,0.6
+FX,FX_5.703,FX_5.703_01,Double bwd salto stretch ½ twist,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_5.703_01.png,G,0.7
+FX,FX_5.802,FX_5.802_01,Double bwd salto tuck 2/1 twist,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_5.802_01.png,G,0.8
+FX,FX_5.803,FX_5.803_01,Double bwd salto stretch 1/1 twist,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_5.803_01.png,H,0.8
+FX,FX_5.903,FX_5.903_01,Double bwd salto stretch 2/1 twist,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/fx/FX_5.903_01.png,I,0.9
+UB,UB_1.106,UB_1.106_01,Straddle vault over LB catch HB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_1.106_01.png,A,0.1
+UB,UB_1.306,UB_1.306_01,Stretch jump over LB to HB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_1.306_01.png,C,0.3
+UB,UB_1.308,UB_1.308_01,Round off bwd flight over LB to HB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_1.308_01.png,C,0.3
+UB,UB_1.410,UB_1.410_01,Jump hstd LB stretched hips 1/1 turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_1.410_01.png,D,0.4
+UB,UB_2.104,UB_2.104_01,Fwd hip circle,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_2.104_01.png,A,0.1
+UB,UB_2.405,UB_2.405_01,Clear hip to hstd 1/1 turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_2.405_01.png,D,0.4
+UB,UB_2.406,UB_2.406_01,Shaposhnikova,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_2.406_01.png,D,0.4
+UB,UB_2.504,UB_2.504_01,Fwd clear hip circle hstd 1/1 turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_2.504_01.png,E,0.5
+UB,UB_2.505,UB_2.505_01,Clear hip to hstd 1½ turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_2.505_01.png,E,0.5
+UB,UB_3.301,UB_3.301_01,Giant 1/1 turn to hstd,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_3.301_01.png,C,0.3
+UB,UB_3.304,UB_3.304_01,HB swing straddle bwd roll to LB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_3.304_01.png,C,0.3
+UB,UB_3.306,UB_3.306_01,Fwd giant 1/1 turn in hstd,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_3.306_01.png,C,0.3
+UB,UB_3.307,UB_3.307_01,Swing straddle bwd over LB to hstd,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_3.307_01.png,C,0.3
+UB,UB_3.308,UB_3.308_01,Jaeger salto,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_3.308_01.png,C,0.3
+UB,UB_3.402,UB_3.402_01,HB swing ½ turn to hstd LB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_3.402_01.png,D,0.4
+UB,UB_3.404,UB_3.404_01,Pak salto,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_3.404_01.png,D,0.4
+UB,UB_3.407,UB_3.407_01,HB swing bwd ½ turn in flight to LB support,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_3.407_01.png,D,0.4
+UB,UB_3.410,UB_3.410_01,L grip giant 1/1 turn to hstd,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_3.410_01.png,D,0.4
+UB,UB_3.504,UB_3.504_01,Pak salto 1/1 turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_3.504_01.png,E,0.5
+UB,UB_4.101,UB_4.101_01,Fwd stalder circle to support,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.101_01.png,A,0.1
+UB,UB_4.103,UB_4.103_01,L grip straddle circle to support,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.103_01.png,A,0.1
+UB,UB_4.104,UB_4.104_01,Bwd straddle circle to support,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.104_01.png,A,0.1
+UB,UB_4.106,UB_4.106_01,Seat circle fwd to rear support,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.106_01.png,A,0.1
+UB,UB_4.208,UB_4.208_01,LB clear pike circle bwd counter to HB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.208_01.png,B,0.2
+UB,UB_4.302,UB_4.302_01,HB straddle circle flight to LB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.302_01.png,C,0.3
+UB,UB_4.308,UB_4.308_01,LB clear pike circle bwd hecht flight to HB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.308_01.png,C,0.3
+UB,UB_4.402,UB_4.402_01,HB straddle circle flight to hstd LB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.402_01.png,D,0.4
+UB,UB_4.404,UB_4.404_01,Stalder bwd 1/1 turn to hstd,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.404_01.png,D,0.4
+UB,UB_4.405,UB_4.405_01,Stalder bwd through hstd flight hang HB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.405_01.png,D,0.4
+UB,UB_4.501,UB_4.501_01,Fwd stalder circle 1/1 turn to hstd,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.501_01.png,E,0.5
+UB,UB_4.504,UB_4.504_01,Stalder bwd 1½ turn to hstd,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.504_01.png,E,0.5
+UB,UB_4.505,UB_4.505_01,Stalder bwd flight and ½ turn hang HB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.505_01.png,E,0.5
+UB,UB_4.506,UB_4.506_01,Clear pike circle fwd 1/1 turn to hstd,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.506_01.png,E,0.5
+UB,UB_4.507,UB_4.507_01,Clear pike circle bwd 1/1 turn to hstd,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.507_01.png,E,0.5
+UB,UB_4.602,UB_4.602_01,HB stalder pike reverse hecht over HB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.602_01.png,F,0.6
+UB,UB_4.608,UB_4.608_01,HB Clear pike circle bwd counter pike reverse hecht to HB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.608_01.png,F,0.6
+UB,UB_4.708,UB_4.708_01,HB Clear pike circle bwd counter flight to HB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_4.708_01.png,G,0.7
+UB,UB_5.101,UB_5.101_01,Seat pike circle fwd straddle cut bwd,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_5.101_01.png,A,0.1
+UB,UB_5.104,UB_5.104_01,Inverted pike swing Schleudern hang HB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_5.104_01.png,A,0.1
+UB,UB_5.105,UB_5.105_01,Sole circle fwd,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_5.105_01.png,A,0.1
+UB,UB_5.106,UB_5.106_01,Sole circle fwd in L grip,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_5.106_01.png,A,0.1
+UB,UB_5.108,UB_5.108_01,Sole circle bwd,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_5.108_01.png,A,0.1
+UB,UB_5.202,UB_5.202_01,HB seat circle bwd release hang on LB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_5.202_01.png,B,0.2
+UB,UB_5.303,UB_5.303_01,HB full circle swing bwd stoop out bwd hang HB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_5.303_01.png,C,0.3
+UB,UB_5.403,UB_5.403_01,Li Li,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_5.403_01.png,D,0.4
+UB,UB_5.404,UB_5.404_01,HB: Bwd underswing dislocate flight to hstd LB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_5.404_01.png,D,0.4
+UB,UB_5.405,UB_5.405_01,Sole circle fwd reverse grip to hstd 1/1turn,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_5.405_01.png,D,0.4
+UB,UB_5.408,UB_5.408_01,Sole circle bwd 1/1 turn to hstd,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_5.408_01.png,D,0.4
+UB,UB_5.409,UB_5.409_01,LB: sole circle through hstd flight to HB,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_5.409_01.png,D,0.4
+UB,UB_5.508,UB_5.508_01,Sole circle bwd 1½ turn to hstd,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_5.508_01.png,E,0.5
+UB,UB_6.205,UB_6.205_01,Dismount: Flyaway tuck double salto,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_6.205_01.png,B,0.2
+UB,UB_6.210,UB_6.210_01,Dismount: Fwd salto tuck,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_6.210_01.png,B,0.2
+UB,UB_6.305,UB_6.305_01,Dismount: Flyaway pike double salto,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_6.305_01.png,C,0.3
+UB,UB_6.408,UB_6.408_01,Dismount: Swing bwd tuck double fwd salto,https://raw.githubusercontent.com/haworthnikki/judge-jodie-symbols/main/ub/UB_6.408_01.png,D,0.4
